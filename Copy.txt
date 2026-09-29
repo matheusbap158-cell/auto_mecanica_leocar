@@ -1,0 +1,154 @@
+COPY DA LANDING PAGE: LEOCAR MECÂNICA DE AUTOS
+Varginha/MG (bairro Eldorado). Oficina mecânica.
+Fonte única dos dados: "Info maps.txt" (Google Maps: 5,0 com 62 avaliações, endereço, telefone, 3 avaliações e os assuntos mais citados). Não há logo, fotos, Instagram nem lista de serviços na pasta.
+Tom: direto, honesto, técnico sem jargão. Slogan do Maps: "Precisão e Confiança".
+Referência de estrutura: modelo de demo da agência (não foi indicado site de referência).
+
+======================================================
+CABEÇALHO
+======================================================
+Nome da marca: LeoCar (subtítulo: Mecânica de Autos)
+Menu: Avaliações | Como funciona | Como chegar
+Botão do topo: Falar com a oficina
+
+======================================================
+1. HERO
+======================================================
+Selo: 5,0 no Google · 62 avaliações
+Título: Precisão e confiança para o seu carro.
+Subtítulo: Oficina mecânica em Varginha/MG.
+Texto: A LeoCar Mecânica de Autos cuida do seu veículo com atenção e honestidade. Conte o que está acontecendo e fale direto com a oficina.
+Botão principal: Falar com a oficina pelo WhatsApp
+Botão secundário: Ver avaliações
+Marcador (ilustração): 5,0 de 5 | 62 avaliações no Google
+
+Faixa de números:
+5,0 | nota no Google
+62 | avaliações de clientes
+8 | avaliações falam de honestidade
+4 | avaliações falam da equipe
+
+======================================================
+2. SOBRE
+======================================================
+Seção: A oficina
+Título: Uma oficina no Eldorado em que os clientes voltam a confiar.
+Texto: A LeoCar Mecânica de Autos fica no bairro Eldorado, em Varginha. Quem já deixou o carro lá fala do atendimento, das peças e serviços de qualidade e da equipe que resolve o problema.
+Placeholder de foto: Foto da oficina [A CONFIRMAR]
+Assinatura: Por [NOME DO RESPONSÁVEL A CONFIRMAR] · [ANOS DE OFICINA A CONFIRMAR]
+
+======================================================
+3. O QUE OS CLIENTES COMENTAM (gráfico)
+======================================================
+Seção: Nas avaliações
+Título: O que aparece quando o cliente conta a experiência
+Subtítulo: Assuntos mais citados nas 62 avaliações do Google.
+Barras (número de avaliações que citam o assunto):
+- Honestidade: 8
+- Preço: 7
+- Mecânico: 5
+- Equipe: 4
+Nota abaixo: Mais 6 assuntos aparecem nas avaliações. Fonte: Google Maps.
+
+======================================================
+4. AVALIAÇÕES
+======================================================
+Seção: Avaliações
+Título: Quem levou o carro, recomenda
+Subtítulo: 5,0 no Google, com 62 avaliações
+Avaliação 1 (Jéssica H., Local Guide): Léo e a equipe são muito atencioso e competentes! Recomendo muito o trabalho deles.
+Avaliação 2 (Gustavo M., Local Guide): Melhor mecânico de Varginha! Honesto, tem boa vontade e tem conhecimento.
+Avaliação 3 (Dionisio S., Local Guide): Estabelecimento perfeito, equipe muito bem preparada, e finalmente foi resolvido o problema do meu carro. Estou muito satisfeito, indico com total confiança.
+Trechos de outras avaliações (sem autor):
+- Ótimo atendimento, peças e serviços de qualidade.
+- Muito satisfeita em todas as vezes que deixei meu veículo para manutenção.
+- Troca do sensor de nível do tanque de combustível
+Botão: Ver todas as avaliações no Google
+
+======================================================
+5. COMO FUNCIONA
+======================================================
+Seção: Como funciona
+Título: Do WhatsApp à oficina, em 3 passos
+Passo 1: Conte o que está acontecendo. Escreva o modelo do carro e o que você notou.
+Passo 2: Combine com a oficina. Fale direto pelo WhatsApp e veja o melhor dia.
+Passo 3: Leve o carro à LeoCar. R. Antônio Murad Sobrinho, 390, no Eldorado.
+Botão: Começar pelo WhatsApp
+
+======================================================
+6. QUANDO LEVAR O CARRO
+======================================================
+Seção: Sinais de alerta
+Título: Na dúvida, leve para avaliar
+Subtítulo: Alguns sinais pedem atenção logo.
+Itens:
+- Luz de alerta acesa no painel
+- Barulho diferente ao frear ou ao rodar
+- Carro puxando para um lado
+- Cheiro estranho ou fumaça
+- Motor falhando ou difícil de pegar
+- Revisão vencida
+Aviso: Se a luz de temperatura acender ou sair fumaça, pare em local seguro e desligue o motor.
+Botão: Falar com a LeoCar agora
+
+======================================================
+7. PEÇA ATENDIMENTO (montador de mensagem)
+======================================================
+Seção: Atendimento
+Título: Conte o problema em 10 segundos
+Subtítulo: Preencha e a mensagem já sai pronta no WhatsApp.
+Campo 1, rótulo: Modelo e ano do carro
+Campo 1, exemplo: Ex.: Gol 2015
+Campo 2, rótulo: O que está acontecendo
+Opções: Revisão ou manutenção | Barulho diferente | Luz de alerta no painel | Carro não pega ou falha | Outro problema
+Botão: Enviar pelo WhatsApp
+Aviso: A mensagem é só um ponto de partida. Você pode editar antes de enviar.
+
+======================================================
+8. COMO CHEGAR
+======================================================
+Seção: Onde estamos
+Título: No Eldorado, em Varginha
+Endereço: R. Antônio Murad Sobrinho, 390 - Eldorado, Varginha - MG, 37062-403
+Telefone: (35) 98848-9917
+Horário de atendimento: [HORÁRIO A CONFIRMAR]
+Botões: Chamar no WhatsApp | Ligar agora | Como chegar
+
+======================================================
+9. CTA FINAL
+======================================================
+Título: Seu carro em boas mãos?
+Subtítulo: Precisão e confiança.
+Texto: Fale com a LeoCar Mecânica de Autos e conte o que está acontecendo.
+Botão: Falar com a oficina pelo WhatsApp
+
+======================================================
+RODAPÉ
+======================================================
+Nome: LeoCar Mecânica de Autos
+Resumo: Oficina mecânica em Varginha/MG.
+Contato: (35) 98848-9917
+Endereço: R. Antônio Murad Sobrinho, 390 - Eldorado, Varginha - MG
+Crédito: Site produzido por Connect Alpha
+
+======================================================
+MENSAGENS DO WHATSAPP
+======================================================
+Padrão: Olá! Vim pelo site da LeoCar Mecânica de Autos e gostaria de falar com a oficina.
+Montador: Olá! Vim pelo site da LeoCar Mecânica de Autos. Meu carro: [campo 1]. O que está acontecendo: [campo 2]. Podem me ajudar?
+Número usado (provisório): 5535988489917, o telefone do Google Maps.
+Textos de interface: Pular para o conteúdo | Sua mensagem | Escolha uma opção | Preencha o modelo e o ano do carro. | Escolha uma opção para continuar. | Ver no mapa
+
+======================================================
+PENDÊNCIAS (nada foi inventado)
+======================================================
+- WhatsApp: o site usa o celular do Maps, (35) 98848-9917, sem confirmação de que é WhatsApp
+- Logo (o cabeçalho usa só o nome escrito) e fotos da oficina (há um bloco de foto tracejado)
+- Instagram e outros canais (nenhum link no site)
+- Lista de serviços: não há na pasta, então o site não promete nenhum serviço específico
+- Nome do responsável (as avaliações citam "Léo") e anos de oficina
+- Horário completo (o Maps só mostra "Fecha 18:00")
+- Autorização para citar as avaliações com nome e sobrenome abreviado
+- O passo a passo é uma proposta de fluxo: validar com a oficina
+- As cores (grafite e laranja) são proposta minha, sem identidade da marca; ajustar quando chegar o logo
+- Nomes dos assuntos e contagens (honestidade 8, preço 7, mecânico 5, equipe 4) vêm do resumo do Maps e não dizem se cada menção é elogio
